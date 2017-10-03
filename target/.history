@@ -1,0 +1,4 @@
+run
+sbt "project HelloWorld" run
+sbt "project helloworld" run
+sbt
